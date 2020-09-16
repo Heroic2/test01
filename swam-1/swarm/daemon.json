@@ -1,0 +1,6 @@
+{
+  "insecure-registries": ["180.168.170.198:8443"], 
+  "max-concurrent-downloads": 10,
+  "bip":"10.10.0.1/16",
+  "data-root":"/home/docker"
+}
